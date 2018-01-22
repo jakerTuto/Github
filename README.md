@@ -2,8 +2,6 @@
 by-jaker
 
  ## PARTIE 1
- 
-
  ### Creer un  Github:
  http://github.com - INSCRIVEZ VOUS
  ![GitHub Logo](/images/c2.png)
@@ -26,19 +24,19 @@ by-jaker
  ![GitHub Logo](/images/c6.png)
  
  ----------------------------------------------------------------------------------------------------
-  ### Creer un  Github:
+  ### SELECTIONNER VOS PROPRES CHOIX:
  ![GitHub Logo](/images/c1.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
+ ### BIENVENUE SUR GITHUB:
  ![GitHub Logo](/images/c7.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
+ ### SELECTIONNER L'ICONE A DROITE DE LA PHOTO ET ET SELECTIONNER VUE PROFIL:
  ![GitHub Logo](/images/c8.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
+ ### SELECTIONNER :
  ![GitHub Logo](/images/c9.png)
  
  ----------------------------------------------------------------------------------------------------
