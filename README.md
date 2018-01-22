@@ -32,19 +32,12 @@ by-jaker
  ![GitHub Logo](/images/c7.png)
  
  ----------------------------------------------------------------------------------------------------
- ### SELECTIONNER L'ICONE A DROITE DE LA PHOTO ET ET SELECTIONNER VUE PROFIL:
- ![GitHub Logo](/images/c8.png)
- 
- ----------------------------------------------------------------------------------------------------
- ### SELECTIONNER :
- ![GitHub Logo](/images/c9.png)
- 
- ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
+
+ ### SELECTIONNER L'ICONE PLUS A GAUCHE DE LA PHOTO ET CHOISSIEZ CREER UN REPOSITORY:
  ![GitHub Logo](/images/c10.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
+ ### NEW REPOSITORY:
  ![GitHub Logo](/images/c11.png)
  
  ----------------------------------------------------------------------------------------------------
