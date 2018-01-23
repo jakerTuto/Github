@@ -1,7 +1,8 @@
 # Github 
-by-jaker
 
- ## PARTIE 1 Creer un  Github:
+
+ ## PARTIE 1
+  - Creer un  Github:
  
  http://github.com - INSCRIVEZ VOUS
  ![GitHub Logo](/images/c2.png)
