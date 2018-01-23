@@ -1,8 +1,8 @@
 # Github 
 by-jaker
 
- ## PARTIE 1
- ### Creer un  Github:
+ ## PARTIE 1 Creer un  Github:
+ 
  http://github.com - INSCRIVEZ VOUS
  ![GitHub Logo](/images/c2.png)
  
@@ -43,23 +43,18 @@ by-jaker
  
  ----------------------------------------------------------------------------------------------------
  
- ### Creer un  Github:
+ ### DONNER UN NOM  A VOTRE REPOSITORY PUIS VALIDER DIRECTEMENT:
  ![GitHub Logo](/images/c14.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
- ![GitHub Logo](/images/c15.png)
- 
- ----------------------------------------------------------------------------------------------------
+
  ### Creer un  Github:
  ![GitHub Logo](/images/c16.png)
  
  ----------------------------------------------------------------------------------------------------
  
- ### Creer un  Github:
- ![GitHub Logo](/images/c17.png)
- 
- ----------------------------------------------------------------------------------------------------
+  ## PARTIE 2 CREER UN TERMINAL SUR VOTRE MAC OU PC:
+  
 
 
 
