@@ -33,22 +33,16 @@ by-jaker
  
  ----------------------------------------------------------------------------------------------------
 
- ### SELECTIONNER L'ICONE PLUS A GAUCHE DE LA PHOTO ET CHOISSIEZ CREER UN REPOSITORY:
- ![GitHub Logo](/images/c10.png)
- 
- ----------------------------------------------------------------------------------------------------
- ### NEW REPOSITORY:
+### SELECTIONNER L'ICONE PLUS A GAUCHE DE LA PHOTO ET CHOISSIEZ CREER UN REPOSITORY:
  ![GitHub Logo](/images/c11.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
+ 
+ ### NEW REPOSITORY:
  ![GitHub Logo](/images/c12.png)
  
  ----------------------------------------------------------------------------------------------------
- ### Creer un  Github:
- ![GitHub Logo](/images/c13.png)
  
- ----------------------------------------------------------------------------------------------------
  ### Creer un  Github:
  ![GitHub Logo](/images/c14.png)
  
